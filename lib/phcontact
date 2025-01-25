@@ -1,0 +1,49 @@
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MaterialApp(
+    home: MyApp(),
+    debugShowCheckedModeBanner: false,
+    theme: ThemeData(primarySwatch: Colors.red),
+  ));
+}
+
+//adb
+class MyApp extends StatelessWidget {
+  List<Contact> _list = List.generate(100, (index) {
+
+
+    return Contact(name: "Name $index",phone :"Phone $index",address: "Address $index");
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    return Scaffold(
+      appBar: AppBar(),
+      body: ListView.builder(
+        
+        itemCount: _list.length,
+        itemBuilder: (BuildContext context, int index) {
+        return Card(
+          child: ListTile(
+          leading: Icon(Icons.phone),
+          title: Text(_list[index].name!),
+          
+          subtitle: Text(_list[index].phone!),
+          trailing: Text(_list[index].address),
+          
+          ),
+        );
+      }),
+    );
+  }
+}
+class Contact{
+  final String name;
+  final String phone;
+  final String address;
+
+  Contact({required this.name, required this.phone, required this.address});
+
+}

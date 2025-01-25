@@ -1,0 +1,2037 @@
+{
+  "translations": [
+    {
+      "id": 1,
+      "english": "hello",
+      "mon": "မ္ၚဵုရအဴ",
+      "audio": "1.mp3"
+    },
+    {
+      "id": 2,
+      "english": "Welcome",
+      "mon": "ဒုင်တၠုင်ရအဴ",
+      "audio": "2.mp3"
+    },
+    {
+      "id": 3,
+      "english": "Thanks",
+      "mon": "တင်ဂုဏ်ရအဴ",
+      "audio": "3.mp3"
+    },
+    {
+      "id": 4,
+      "english": "How are you?",
+      "mon": "မံင်စမိပ်မံင်ဟာ",
+      "audio": "4.mp3"
+    },
+    {
+      "id": 5,
+      "english": "Yes",
+      "mon": "ယွံ",
+      "audio": "5.mp3"
+    },
+    {
+      "id": 6,
+      "english": "No",
+      "mon": "ဟွံသေင်",
+      "audio": "6.mp3"
+    },
+    {
+      "id": 7,
+      "english": "Let go to school",
+      "mon": "အာဘာစိုအ်",
+      "audio": "7.mp3"
+    },
+    {
+      "id": 8,
+      "english": "Book",
+      "mon": "လိက်",
+      "audio": "8.mp3"
+    },
+    {
+      "id": 9,
+      "english": "Pencil",
+      "mon": "ဟကှော်",
+      "audio": "9.mp3"
+    },
+    {
+      "id": 10,
+      "english": "Ruler",
+      "mon": "ပၞောန်",
+      "audio": "10.mp3"
+    },
+    {
+      "id": 11,
+      "english": "Watch",
+      "mon": "နာဍဳ",
+      "audio": "11.mp3"
+    },
+    {
+      "id": 12,
+      "english": "Ring",
+      "mon": "ကံက်စိန်",
+      "audio": "12.mp3"
+    },
+    {
+      "id": 13,
+      "english": "Necklace",
+      "mon": "မဂွါ",
+      "audio": "13.mp3"
+    },
+    {
+      "id": 14,
+      "english": "Earrings",
+      "mon": "နှေက်",
+      "audio": "14.mp3"
+    },
+    {
+      "id":15 ,
+      "english": "Bag",
+      "mon": "ထာင်",
+      "audio": "15.mp3"
+    },
+    {
+      "id":16,
+      "english": "Desk",
+      "mon": "ခုင်",
+      "audio": "16.mp3"
+    },
+    {
+      "id":17 ,
+      "english": "Clothes",
+      "mon": "ပဠောံ",
+      "audio": "17.mp3"
+    },
+    {
+      "id":18 ,
+      "english": "Sarong",
+      "mon": "ဂၞိန်",
+      "audio": "18.mp3"
+    },
+    {
+      "id":19 ,
+      "english": "Umbrella",
+      "mon": "ဍာင်",
+      "audio": "19.mp3"
+    },
+    {
+      "id":20 ,
+      "english": "Glasses",
+      "mon": "ဒ္ၚေါဝ်မတ်",
+      "audio": "20.mp3"
+    },
+    {
+      "id":21 ,
+      "english": "Phone",
+      "mon": "ဖုင်",
+      "audio": "21.mp3"
+    },
+    {
+      "id": 22,
+      "english": "Sorry",
+      "mon": "ကလအ်ရ",
+      "audio": "22.mp3"
+    },
+
+    {
+      "id":23 ,
+      "english": "Mon song",
+      "mon": "ဒွက်မန်",
+      "audio": "23.mp3"
+    },
+
+   {
+      "id":24 ,
+      "english": "Pretty",
+      "mon": "ကျေဝ်",
+      "audio": "24.mp3"
+    },
+    {
+      "id": 25,
+      "english": "Ugly",
+      "mon": "ပရေံ",
+      "audio": "25.mp3"
+    },
+    {
+      "id":26 ,
+      "english": "I love you",
+      "mon": "အဲဆာန်ဗှ်ေ",
+      "audio": "26.mp3"
+    },
+
+    {
+      "id":27 ,
+      "english": "I miss you",
+      "mon": "အဲဗှ်သၞာ​ဗှ်ေ",
+      "audio": "27.mp3"
+    },
+
+    {
+      "id": 28,
+      "english": "Tomorrow",
+      "mon": "တ္ၚဲယး",
+      "audio": "28.mp3"
+    },
+
+    {
+      "id":29 ,
+      "english": "Today",
+      "mon": "တ္ၚဲဏအ်",
+      "audio": "29.mp3"
+    },
+
+    {
+      "id":30 ,
+      "english": "Yesterday",
+      "mon": "နူနေံတေံ",
+      "audio": "30.mp3"
+    },
+
+   {
+      "id":31 ,
+      "english": "Now",
+      "mon": "လၟု",
+      "audio": "31.mp3"
+    },
+
+    {
+      "id":32 ,
+      "english": "Are you ok?",
+      "mon": "ပြေပြံင်မံင်ကီုဟာ",
+      "audio": "32.mp3"
+    },
+    {
+      "id":500 ,
+      "english": "Are you ok",
+      "mon": "ပြေပြံင်မံင်ကီုဟာ",
+      "audio": "32.mp3"
+    },
+    {
+      "id": 33,
+      "english": "Mountain",
+      "mon": "ဒဵု",
+      "audio": "33.mp3"
+    },
+
+    {
+      "id":34 ,
+      "english": "School",
+      "mon": "ဘာ",
+      "audio": "34.mp3"
+    },
+
+   {
+      "id":35 ,
+      "english": "Headmisstress",
+      "mon": "အ္စာၝောံဇၞော်",
+      "audio": "35.mp3"
+    },
+
+   {
+      "id":36 ,
+      "english": "Student",
+      "mon": "ကွးဘာ",
+      "audio": "36.mp3"
+    },
+    {
+      "id":37 ,
+      "english": "Bulb",
+      "mon": "မပၟတ်",
+      "audio": "37.mp3"
+    },
+    {
+      "id": 38,
+      "english": "Have you finished eating?",
+      "mon": "စပုင်တုဲယျဟာ",
+      "audio": "38.mp3"
+    },
+    {
+      "id": 501,
+      "english": "Have you finished eating",
+      "mon": "စပုင်တုဲယျဟာ",
+      "audio": "38.mp3"
+    },
+    {
+      "id":39 ,
+      "english": "What disk?",
+      "mon": "မုသွးရော",
+      "audio": "39.mp3"
+    },
+    {
+      "id": 502,
+      "english": "What disk",
+      "mon": "မုသွးရော",
+      "audio": "39.mp3"
+    },
+    {
+      "id":40 ,
+      "english": "Chicken curry",
+      "mon": "သွးစာင်",
+      "audio": "40.mp3"
+    },
+    {
+      "id":41 ,
+      "english": "Is it good?",
+      "mon": "စခိုဟ်ဟာ",
+      "audio": "41.mp3"
+    },
+    {
+      "id":503 ,
+      "english": "Is it good",
+      "mon": "စခိုဟ်ဟာ",
+      "audio": "41.mp3"
+    },
+    {
+      "id":42 ,
+      "english": "Have you finished the exam?",
+      "mon": "သွဟ်လိက်တုဲယျဟာ",
+      "audio": "42.mp3"
+    },
+    {
+      "id":504 ,
+      "english": "Have you finished the exam",
+      "mon": "သွဟ်လိက်တုဲယျဟာ",
+      "audio": "42.mp3"
+    },
+    {
+      "id": 43,
+      "english": "Will you drink water?",
+      "mon": "သုင်ဍာ်ဟာ",
+      "audio": "43.mp3"
+    },
+    {
+      "id": 505,
+      "english": "Will you drink water",
+      "mon": "သုင်ဍာ်ဟာ",
+      "audio": "43.mp3"
+    },
+    {
+      "id":44 ,
+      "english": "Will you eat bread?",
+      "mon": "စကွာင်ဟာ",
+      "audio": "44.mp3"
+    },
+    {
+      "id":506 ,
+      "english": "Will you eat bread",
+      "mon": "စကွာင်ဟာ",
+      "audio": "44.mp3"
+    },
+    {
+      "id":45 ,
+      "english": "Fish curry",
+      "mon": "သွးက",
+      "audio": "45.mp3"
+    },
+    {
+      "id":46 ,
+      "english": "pig curry",
+      "mon": "သွးကၠိက်",
+      "audio": "46.mp3"
+    },
+    {
+      "id":47 ,
+      "english": "Duck curry",
+      "mon": "သွးအဒါ",
+      "audio": "47.mp3"
+    },
+    {
+      "id": 48,
+      "english": "Do you have a boyfriend?",
+      "mon": "ကဝေင်နွံဟာ",
+      "audio": "48.mp3"
+    },
+    {
+      "id": 507,
+      "english": "Do you have a boyfriend",
+      "mon": "ကဝေင်နွံဟာ",
+      "audio": "48.mp3"
+    },
+    {
+      "id":49 ,
+      "english": "You are so beautiful",
+      "mon": "ဗှ်ေကျေဝ်ကွေံ",
+      "audio": "49.mp3"
+    },
+    {
+      "id":50 ,
+      "english": "You are so cute",
+      "mon": "ဆာန်ဠာန်ကွေံ",
+      "audio": "50.mp3"
+    },
+    {
+      "id":51 ,
+      "english": "Studying",
+      "mon": "ကတ်လ္ၚတ်",
+      "audio": "51.mp3"
+    },
+    {
+      "id": 52,
+      "english": "A little while",
+      "mon": "မွဲချိူန်ခဏ",
+      "audio": "52.mp3"
+    },
+   {
+      "id":53 ,
+      "english": "Let's run away from school",
+      "mon": "ပဠဳဘာစိုအ်",
+      "audio": "53.mp3"
+    },
+    {
+      "id":54 ,
+      "english": "Trust me",
+      "mon": "ပတှ်ေအဲညိ",
+      "audio": "54.mp3"
+    },
+    {
+      "id":55 ,
+      "english": "Try again",
+      "mon": "ဂ္စာန်မွဲတုဲပၠန်",
+      "audio": "55.mp3"
+    },
+    {
+      "id":56 ,
+      "english": "Sit down",
+      "mon": "ဂ္ဇအ်",
+      "audio": "56.mp3"
+    },
+    {
+      "id": 57,
+      "english": "Come in",
+      "mon": "ကၠုင်",
+      "audio": "57.mp3"
+    },
+    {
+      "id": 58,
+      "english": "Not now",
+      "mon": "လၟုဟွံသေင်ပုဟ်",
+      "audio": "58.mp3"
+    },
+    { 
+      "id":59 ,
+      "english": "Call me back",
+      "mon": "ကၠေင်ကော်နင်အဲမွဲတုဲ",
+      "audio": "59.mp3"
+    },
+    {
+      "id":60 ,
+      "english": "No problem",
+      "mon": "ပြဒ္ဒညာဟွံမွဲပုဟ်",
+      "audio": "60.mp3"
+    },
+    {
+      "id":61,
+      "english": "Forgive me",
+      "mon": "သၠးအခေါင်အဲညိ",
+      "audio": "61.mp3"
+    },
+    {
+      "id": 62,
+      "english": "Stand up",
+      "mon": "က္တဵု",
+      "audio": "62.mp3"
+    },
+    {
+      "id": 63,
+      "english": "Carry on",
+      "mon": "ဆက်ကၠောန်ညိ",
+      "audio": "63.mp3"
+    },
+    {
+      "id":64 ,
+      "english": "Do as you like",
+      "mon": "ဗီုဗှ်ေဒးစိုတ်ဂှ်ကၠောန်",
+      "audio": "64.mp3"
+    },
+    {
+      "id":65 ,
+      "english": "Keep calm ",
+      "mon": "စွံစိုတ်ၜိုဟ်ဟ်ညိ",
+      "audio": "65.mp3"
+    },
+    {
+      "id": 66,
+      "english": "Listen to me",
+      "mon": "ကလင်အရေဝ်အဲညိ",
+      "audio": "66.mp3"
+    },
+    {
+      "id":67 ,
+      "english": "Are you ready",
+      "mon": "တုဲဒှ်ယျဟာ",
+      "audio": "67.mp3"
+    },
+    {
+      "id":68 ,
+      "english": "Do you understand",
+      "mon": "ကၠိုဟ်ဟာ",
+      "audio": "68.mp3"
+    },
+    {
+      "id":69 ,
+      "english": "Shall we go",
+      "mon": "ပိုဲတအ်အာဟာ",
+      "audio": "69.mp3"
+    },
+    {
+      "id":70 ,
+      "english": "Wait for a moment",
+      "mon": "မင်မွဲချိူန်ခဏ",
+      "audio": "70.mp3"
+    },
+    {
+      "id": 71,
+      "english": "Long time no see",
+      "mon": "ဂွိုအ်ဆဵုလအ်ရ",
+      "audio": "71.mp3"
+    },
+    {
+      "id":72 ,
+      "english": "I have no idea",
+      "mon": "ကသပ်အဲဟွံမွဲပုဟ်",
+      "audio": "72.mp3"
+    },
+    {
+      "id": 73,
+      "english": "Come with me",
+      "mon": "ကၠုင်ပ္ရဲအဲ",
+      "audio": "73.mp3"
+    },
+    {
+      "id": 74,
+      "english": "How old is he?",
+      "mon": "ဂွံအာယုက်မွဲစိရော",
+      "audio": "74.mp3"
+    },
+    {
+      "id": 507,
+      "english": "How old is he",
+      "mon": "ဂွံအာယုက်မွဲစိရော",
+      "audio": "74.mp3"
+    },
+    {
+      "id": 75,
+      "english": "I know",
+      "mon": "အဲတီ",
+      "audio": "75.mp3"
+    },
+    {
+      "id": 76,
+      "english": "So long",
+      "mon": "လအ်ကွေံ",
+      "audio": "76.mp3"
+    },
+    {
+      "id":77 ,
+      "english": "Hurry up",
+      "mon": "ဂ္စာန်ကၠောန်",
+      "audio": "77.mp3"
+    },
+    {
+      "id":78 ,
+      "english": "I will make a call",
+      "mon": "အဲဆက်ဏာကဵုဗှ်ေဖုင်",
+      "audio": "78.mp3"
+    },
+    {
+      "id":79 ,
+      "english": "Say again",
+      "mon": "ဟီုမွဲတုဲပၠန်",
+      "audio": "79.mp3"
+    },
+    {
+      "id":80 ,
+      "english": "Not this one",
+      "mon": "ၝဏအ်ဟွံသေင်ပုဟ်",
+      "audio": "80.mp3"
+    },
+    {
+      "id":81 ,
+      "english": "Did you pass the exam",
+      "mon": "အံင်ကီုဟာ",
+      "audio": "81.mp3"
+    },
+    {
+      "id":82 ,
+      "english": "I will study",
+      "mon": "အဲဗှ်လိက်",
+      "audio": "82.mp3"
+    },
+    {
+      "id":83,
+      "english": "Up to you",
+      "mon": "အတိုင်ပၟိက်စိုတ်ဗှ်ေရ",
+      "audio": "83.mp3"
+    },
+    {
+      "id":84,
+      "english": "Have a good time",
+      "mon": "ကဵုဂွံမိပ်ညိ",
+      "audio": "84.mp3"
+    },
+    {
+      "id":85,
+      "english": "No time",
+      "mon": "အခိင်ဟွံမွဲပုဟ်",
+      "audio": "85.mp3"
+    },
+    {
+      "id":86,
+      "english": "Not me",
+      "mon": "အဲဟွံသေင်ပုဟ်",
+      "audio": "86.mp3"
+    },
+    {
+      "id":87,
+      "english": "The light is off",
+      "mon": "ပၟတ်ပၠိုတ်ယျ",
+      "audio": "87.mp3"
+    },
+    {
+      "id":88,
+      "english": "Can you give me a hand",
+      "mon": "ဘိုင်ရီုဗင်ကဵုဂွံဟာ",
+      "audio": "88.mp3"
+    },
+    {
+      "id":89,
+      "english": "What would you like to eat",
+      "mon": "မုဗှ်ေမိက်ဂွံစရော",
+      "audio": "89.mp3"
+    },
+    {
+      "id":90,
+      "english": "I haven't finished eating",
+      "mon": "စဟွံတုဲဏီပုဟ်",
+      "audio": "90.mp3"
+    },
+    {
+      "id":91,
+      "english": "How does it taste?",
+      "mon": "ရှ်သာဍေံဗဵုလဵုရော",
+      "audio": "91.mp3"
+    },
+    {
+      "id":509,
+      "english": "How does it taste",
+      "mon": "ရှ်သာဍေံဗဵုလဵုရော",
+      "audio": "91.mp3"
+    },
+    {
+      "id":92,
+      "english": "I'm getting hungry",
+      "mon": "အဲဗျဵူပုင်ယျ",
+      "audio": "92.mp3"
+    },
+    {
+      "id":93,
+      "english": "Be may guest",
+      "mon": "အဲရာန်ဗ္စကဵု",
+      "audio": "93.mp3"
+    },
+    {
+      "id":94,
+      "english": "What's for dinner",
+      "mon": "ဗ္တံဏအ်မုဍုန်ရော",
+      "audio": "94.mp3"
+    },
+    {
+      "id":95,
+      "english": "I cann't eat anymore",
+      "mon": "အဲထပ်စဟွံမာန်ရပုဟ်",
+      "audio": "95.mp3"
+    },
+    {
+      "id":96,
+      "english": "Shall we go shopping today?",
+      "mon": "တ္ၚဲဏအ်ပိုဲတအ်တိတ်ရာန်ဖျာဟာ",
+      "audio": "96.mp3"
+    },
+    {
+      "id":97,
+      "english": "Sunday",
+      "mon": "တ္ၚဲအဒိုတ်",
+      "audio": "97.mp3"
+    },
+    {
+      "id":98,
+      "english": "Monday",
+      "mon": "တ္ၚဲစန်",
+      "audio": "98.mp3"
+    },
+    {
+      "id":99,
+      "english": "Tuesday",
+      "mon": "တ္ၚဲအၚာ",
+      "audio": "99.mp3"
+    },
+    {
+      "id":100,
+      "english": "Wednesday",
+      "mon": "တ္ၚဲဗုဒ္ဓဝါ",
+      "audio": "100.mp3"
+    },
+    {
+      "id":101,
+      "english": "Thursday",
+      "mon": "တ္ၚဲဗြဴဗတိ",
+      "audio": "101.mp3"
+    },
+    {
+      "id":102,
+      "english": "Friday",
+      "mon": "တ္ၚဲသိုက်",
+      "audio": "102.mp3"
+    },
+    {
+      "id":103,
+      "english": "Saturday",
+      "mon": "တ္ၚဲသ္ၚိသဝ်",
+      "audio": "103.mp3"
+    },
+
+    {
+      "id":104,
+      "english": "January",
+      "mon": "ပုဟ်",
+      "audio": "104.mp3"
+    },
+
+    {
+      "id":105,
+      "english": "February",
+      "mon": "မာ်",
+      "audio": "105.mp3"
+    },
+
+    {
+      "id":106,
+      "english": "March",
+      "mon": "ဖဝ်ရဂိုန်",
+      "audio": "106.mp3"
+    },
+
+    {
+      "id":107,
+      "english": "April",
+      "mon": "စဴ",
+      "audio": "107.mp3"
+    },
+
+    {
+      "id":108,
+      "english": "May",
+      "mon": "ပသာ်",
+      "audio": "108.mp3"
+    },
+
+    {
+      "id":109,
+      "english": "June",
+      "mon": "ဇှ်ေ",
+      "audio": "109.mp3"
+    },
+
+    {
+      "id":110,
+      "english": "July",
+      "mon": "ဒ္ဂိုန်",
+      "audio": "110.mp3"
+    },
+
+    {
+      "id":111,
+      "english": "August",
+      "mon": "ခ္ဍဲသီ",
+      "audio": "111.mp3"
+    },
+
+    {
+      "id":112,
+      "english": "September",
+      "mon": "ဘတ်",
+      "audio": "112.mp3"
+    },
+
+    {
+      "id":113,
+      "english": "October",
+      "mon": "ဝှ်",
+      "audio": "113.mp3"
+    },
+
+    {
+      "id":114,
+      "english": "November",
+      "mon": "က္ထိုန်",
+      "audio": "114.mp3"
+    },
+
+    {
+      "id":115,
+      "english": "December",
+      "mon": "မြေက္ကသဵု",
+      "audio": "115.mp3"
+    },
+
+    {
+      "id":116,
+      "english": "What is today?",
+      "mon": "တ္ရဲဏအ်မုတ္ရဲရော",
+      "audio": "116.mp3"
+    },
+
+    {
+      "id":510,
+      "english": "What is today",
+      "mon": "တ္ရဲဏအ်မုတ္ရဲရော",
+      "audio": "116.mp3"
+    },
+
+    {
+      "id":117,
+      "english": "When did you come back?",
+      "mon": "အခိင်လဵုဗှ်ေစဴကၠုင်ရော",
+      "audio": "117.mp3"
+    },
+
+    {
+      "id":511,
+      "english": "When did you come back",
+      "mon": "အခိင်လဵုဗှ်ေစဴကၠုင်ရော",
+      "audio": "117.mp3"
+    },
+
+    {
+      "id":118,
+      "english": "I cann't believe it",
+      "mon": "အဲပတှ်ေဟွံမာန်ပုဟ်",
+      "audio": "118.mp3"
+    },
+
+    {
+      "id":119,
+      "english": "I got it",
+      "mon": "အဲကၠိုဟ်ယျ",
+      "audio": "119.mp3"
+    },
+    
+    {
+      "id":120,
+      "english": " Are you free now?",
+      "mon": "လၟုဗှ်ေသၠးဟာ",
+      "audio": "120.mp3"
+    },
+    
+    {
+      "id":512,
+      "english": " Are you free now",
+      "mon": "လၟုဗှ်ေသၠးဟာ",
+      "audio": "120.mp3"
+    },
+    {
+      "id":121,
+      "english": "Take a lesson",
+      "mon": "ကေတ်ခန်လ္ရတ်",
+      "audio": "121.mp3"
+    },
+    {
+      "id":122,
+      "english": "Take a photo",
+      "mon": "တက်ဗီု",
+      "audio": "122.mp3"
+    },
+    {
+      "id":123,
+      "english": "Take a test",
+      "mon": "သွဟ်လိက်",
+      "audio": "123.mp3"
+    },
+    {
+      "id":124,
+      "english": "I'm going to work",
+      "mon": "အဲအာမၠောန်",
+      "audio": "124.mp3"
+    },
+    {
+      "id":125,
+      "english": "I'm going to bakery",
+      "mon": "အဲအာဆုင်ကွာင်",
+      "audio": "125.mp3"
+    },
+    {
+      "id":126,
+      "english": "Where is my book",
+      "mon": "လိက်အဲအလဵုနွံရော",
+      "audio": "126.mp3"
+    },
+    {
+      "id":127,
+      "english": "Where is my table",
+      "mon": "ခုင်အဲအလဵုနွံရော",
+      "audio": "127.mp3"
+    },
+    {
+      "id":128,
+      "english": "Where is my labtop",
+      "mon": "labtopအဲအလဵုနွံရော",
+      "audio": "128.mp3"
+    },
+    {
+      "id":129,
+      "english": "I'm paying",
+      "mon": "အဲရာန်ဗ္စကဵု",
+      "audio": "129.mp3"
+    },
+    {
+      "id":130,
+      "english": "Do you have any munchies?",
+      "mon": "သွက်ဂွံစကွာင်နွံဟာ",
+      "audio": "130.mp3"
+    },
+    {
+      "id":513,
+      "english": "Do you have any munchies",
+      "mon": "သွက်ဂွံစကွာင်နွံဟာ",
+      "audio": "130.mp3"
+    },
+    {
+      "id":131,
+      "english": "It is spicy",
+      "mon": "ရိင်မံင်ဏောင်",
+      "audio": "131.mp3"
+    },
+    {
+      "id":132,
+      "english": "May I take this home?",
+      "mon": "ၝဏအ်ကေတ်အာဟိဂွံဟာ",
+      "audio": "132.mp3"
+    },
+    {
+      "id":133,
+      "english": "It's been a long day",
+      "mon": "တ္ရဲဏအ်ဍောင်ကွေံၝာဲ",
+      "audio": "133.mp3"
+    },
+    {
+      "id":134,
+      "english": "Can you fix it?",
+      "mon": "ဗှ်ေပဠောဝ်ကဵုဂွံဟာ",
+      "audio": "134.mp3"
+    },
+    {
+      "id":515,
+      "english": "Can you fix it",
+      "mon": "ဗှ်ေပဠောဝ်ကဵုဂွံဟာ",
+      "audio": "134.mp3"
+    },
+    {
+      "id":135,
+      "english": "Let me try it",
+      "mon": "ကၠောန်စမ်ရံင်ဏောင်",
+      "audio": "135.mp3"
+    },
+    {
+      "id":136,
+      "english": "Don't hang up get",
+      "mon": "လ္ပဖျေံထောံဖုင်​ဏီ",
+      "audio": "136.mp3"
+    },
+    {
+      "id":137,
+      "english": "My suitcase is packed",
+      "mon": "အဲစုတ်ထိုင်တုဲယျ",
+      "audio": "137.mp3"
+    },
+    {
+      "id":138,
+      "english": "I'm going to the wedding",
+      "mon": "အဲအာပေါဲမ္ရဵုထပ်တဲဏောင်",
+      "audio": "138.mp3"
+    },
+    {
+      "id":139,
+      "english": "Am I good to go?",
+      "mon": "အဲအာဂွံယျအာ",
+      "audio": "139.mp3"
+    },
+    {
+      "id":516,
+      "english": "Am I good to go",
+      "mon": "အဲအာဂွံယျအာ",
+      "audio": "139.mp3"
+    },
+    {
+      "id":140,
+      "english": "I'll look around here",
+      "mon": "အဲဂေတ်ဗဵုကၠာ",
+      "audio": "140.mp3"
+    },
+    {
+      "id":141,
+      "english": "I'll be back in a second",
+      "mon": "မွဲချိုင်ခဏတှ်ေ အဲ့စဴကၠုင်ဏောင်",
+      "audio": "141.mp3"
+    },
+    {
+      "id":142,
+      "english": "Can I get a picture?",
+      "mon": "တက်ဗီုကဵုဗှ်ေဂွံဟာ",
+      "audio": "142.mp3"
+    },
+    {
+      "id":517,
+      "english": "Can I get a picture",
+      "mon": "တက်ဗီုကဵုဗှ်ေဂွံဟာ",
+      "audio": "142.mp3"
+    },
+    {
+      "id":143,
+      "english": "Pick up the phone",
+      "mon": "ရပ်ဖုင်ညိ",
+      "audio": "143.mp3"
+    },
+    {
+      "id":144,
+      "english": "I got sunburned",
+      "mon": "အဲတဴအာတ္ရဲယျ",
+      "audio": "144.mp3"
+    },
+    {
+      "id":145,
+      "english": "Get well soon",
+      "mon": "ကဵုဂွံဗၠပြဟ်ပြဟ်ညိ",
+      "audio": "145.mp3"
+    },
+    {
+      "id":146,
+      "english": "I wanna tag along",
+      "mon": "အဲမိက်ဂွံဗက်အာဗှ်ေ",
+      "audio": "146.mp3"
+    },
+    {
+      "id":147,
+      "english": "Let's give then a hand",
+      "mon": "ဘိုင်ကဵုဍေံတအ်စိုအ်",
+      "audio": "147.mp3"
+    },
+    {
+      "id":148,
+      "english": "I'm proud of you",
+      "mon": "အဲကေတ်ဂုဏ်စရာဲသွက်ဗှ်ေ",
+      "audio": "148.mp3"
+    },
+    {
+      "id":149,
+      "english": "Where did you get it",
+      "mon": "အလဵု​ဗှ်ေဂွံနင်ရော",
+      "audio": "149.mp3"
+    },
+    {
+      "id":150,
+      "english": "I will take this one",
+      "mon": "အဲကေတ်ၝဏအ်ဏောင်",
+      "audio": "150.mp3"
+    },
+    {
+      "id":151,
+      "english": "How disappointing",
+      "mon": "စိုတ်လီုကွေံ",
+      "audio": "151.mp3"
+    },
+    {
+      "id":152,
+      "english": "Can't help doing that",
+      "mon": "ကေတ်ဟွံမာန်ရလေဝ်",
+      "audio": "152.mp3"
+    },
+    {
+      "id":153,
+      "english": "Won't you enjoy it",
+      "mon": "ဗှ်ေဟွံဒးစိုတ်ၝဏအ်ပုဟ်ဟာ",
+      "audio": "153.mp3"
+    },
+    {
+      "id":154,
+      "english": "Why is he absent?",
+      "mon": "မုပဍေံဟွံကၠေင်ရော",
+      "audio": "154.mp3"
+    },
+    {
+      "id":520,
+      "english": "Why is he absent",
+      "mon": "မုပဍေံဟွံကၠေင်ရော",
+      "audio": "154.mp3"
+    },
+    {
+      "id":155,
+      "english": "Who told you that",
+      "mon": "ၝဂှ်ညးဂှ်ဟီုရော",
+      "audio": "155.mp3"
+    },
+    {
+      "id":156,
+      "english": "I haven't been there",
+      "mon": "ဟွံကေင်စိုပ်ဒၞါဲဂှ်ပုဟ်",
+      "audio": "156.mp3"
+    },
+    {
+      "id":157,
+      "english": "Are we there yet?",
+      "mon": "ဟွံစိုပ်ဏီပုဟ်ဟာ",
+      "audio": "157.mp3"
+    },
+    {
+      "id":521,
+      "english": "Are we there yet",
+      "mon": "ဟွံစိုပ်ဏီပုဟ်ဟာ",
+      "audio": "157.mp3"
+    },
+    {
+      "id":158,
+      "english": "I'm glad you've come",
+      "mon": "ဒၟါနူဗှ်ေကၠုင်ကဵုမိပ်စိုတ်",
+      "audio": "158.mp3"
+    },
+    {
+      "id":159,
+      "english": "She will come soon",
+      "mon": "ကြာဟွံလအ်တှ်ေဍေံကၠုင်ဏောင်",
+      "audio": "159.mp3"
+    },
+    {
+      "id":160,
+      "english": "I won't be able to come",
+      "mon": "အဲဟွံဒှ်ကၠုင်ရပုဟ်",
+      "audio": "160.mp3"
+    },
+    {
+      "id":161,
+      "english": "Are you working tomorrow?",
+      "mon": "တ္ရဲယးကၠောန်ကမၠောန်ဟာ",
+      "audio": "161.mp3"
+    },
+    {
+      "id":525,
+      "english": "Are you working tomorrow",
+      "mon": "တ္ရဲယးကၠောန်ကမၠောန်ဟာ",
+      "audio": "161.mp3"
+    },
+    {
+      "id":162,
+      "english": "I have very little time",
+      "mon": "အဲဂွံအခိင်အောန်မံင်",
+      "audio": "162.mp3"
+    },
+    {
+      "id":163,
+      "english": "Let's go somewhere quiet",
+      "mon": "ဒၞါဲကတောဝ်ၜိုဟ်သြိုဟ်ဂှ်အာစိုအ်",
+      "audio": "163.mp3"
+    },
+    {
+      "id":164,
+      "english": "Don't you have something to say",
+      "mon": "ကဵုဗှ်ေသွက်ဂွံဟီုဟွံမွဲပုဟ်ဟာ",
+      "audio": "164.mp3"
+    },
+    {
+      "id":165,
+      "english": "Please remind me",
+      "mon": "ကဵုသတိကဵုအဲဏး",
+      "audio": "165.mp3"
+    },
+    {
+      "id":166,
+      "english": "Pardon me for being late",
+      "mon": "ဒၞါနူအဲဂဇုဲအာသၠးအခေါင်ညိ",
+      "audio": "166.mp3"
+    },
+    {
+      "id":167,
+      "english": "Is there a store near here?",
+      "mon": "အကြာဏအ်ဖျာနွံမံင်ဟာ",
+      "audio": "167.mp3"
+    },
+    {
+      "id":530,
+      "english": "Is there a store near here",
+      "mon": "အကြာဏအ်ဖျာနွံမံင်ဟာ",
+      "audio": "167.mp3"
+    },
+    {
+      "id":168,
+      "english": "Where didi you buy?",
+      "mon": "အလဵုရာန်နင်ရော",
+      "audio": "168.mp3"
+    },
+    {
+      "id":531,
+      "english": "Where didi you buy",
+      "mon": "အလဵုရာန်နင်ရော",
+      "audio": "168.mp3"
+    },
+    {
+      "id":169,
+      "english": "Will you take me home",
+      "mon": "ပၠံင်ဏာအဲဟိမွဲတုဲ",
+      "audio": "169.mp3"
+    },
+    {
+      "id":170,
+      "english": "I wake up early morning",
+      "mon": "အဲၚုဟ်ပြဟ်မံင်",
+      "audio": "170.mp3"
+    },
+    {
+      "id":171,
+      "english": "How do you sell?",
+      "mon": "ဗီုရောသွံရော",
+      "audio": "171.mp3"
+    },
+    {
+      "id":532,
+      "english": "How do you sell",
+      "mon": "ဗီုရောသွံရော",
+      "audio": "171.mp3"
+    },
+    {
+      "id":172,
+      "english": "Let's have a chat",
+      "mon": "ဟီုအရေဝ်စိုအ်",
+      "audio": "172.mp3"
+    },
+    {
+      "id":173,
+      "english": "May I have a look?",
+      "mon": "အဲဗဵုဂွံဟာ",
+      "audio": "173.mp3"
+    },
+    {
+      "id":174,
+      "english": "Let's get it done",
+      "mon": "ပိုဲကၠောန်ဓဝ်တုဲစိုအ်",
+      "audio": "174.mp3"
+    },
+    {
+      "id":175,
+      "english": "Please be on time",
+      "mon": "ကၠုင်ကဵုဂွံစိုပ်အခိင်",
+      "audio": "175.mp3"
+    },
+    {
+      "id":176,
+      "english": "You're mistaken",
+      "mon": "ဗှ်ေဗၠေတ်မံင်ယျ",
+      "audio": "176.mp3"
+    },
+    {
+      "id":177,
+      "english": "I'll be back in a second",
+      "mon": "မွဲနှတှ်ေအဲစဴကၠုင်",
+      "audio": "177.mp3"
+    },
+    {
+      "id":178,
+      "english": "I'll make a call",
+      "mon": "အဲဆက်ဏာဖုင်",
+      "audio": "178.mp3"
+    },
+    {
+      "id":179,
+      "english": "What a good plan",
+      "mon": "အဇဳအဇန်ဏအ်ခိုဟ်ကွေံ",
+      "audio": "179.mp3"
+    },
+    {
+      "id":180,
+      "english": "You are quite right",
+      "mon": "ဗှ်ေဒးမံင်",
+      "audio": "180.mp3"
+    },
+    {
+      "id":181,
+      "english": "Same as always",
+      "mon": "အတိုင်တြေံတေံရ",
+      "audio": "181.mp3"
+    },
+    {
+      "id":182,
+      "english": "How is your job?",
+      "mon": "ကမၠောန်ဗှ်ေဗီုလဵုရော",
+      "audio": "182.mp3"
+    },
+    {
+      "id":533,
+      "english": "How is your job",
+      "mon": "ကမၠောန်ဗှ်ေဗီုလဵုရော",
+      "audio": "182.mp3"
+    },
+    {
+      "id":183,
+      "english": "Let's go for drink",
+      "mon": "အာသုင်မွဲဗီုစိုအ်",
+      "audio": "183.mp3"
+    },
+    {
+      "id":184,
+      "english": "It is exemely hot there",
+      "mon": "အဏအ်ကတဴကွေံကွေံ",
+      "audio": "184.mp3"
+    },
+    {
+      "id":185,
+      "english": "Which is better",
+      "mon": "ၝလဵုခိုဟ်ရော",
+      "audio": "185.mp3"
+    },
+    {
+      "id":186,
+      "english": "He is not at home",
+      "mon": "ဍေံဟွံမွဲပ္ဍဲဟိပုဟ်",
+      "audio": "186.mp3"
+    },
+    {
+      "id":187,
+      "english": "It look like rain",
+      "mon": "ဗြဲဂူနူ",
+      "audio": "187.mp3"
+    },
+    {
+      "id":188,
+      "english": "Is it raining outside?",
+      "mon": "မ္ရးဂှ်ဗြဲဂူမံင်ဟာ",
+      "audio": "188.mp3"
+    },
+    {
+      "id":534,
+      "english": "Is it raining outside",
+      "mon": "မ္ရးဂှ်ဗြဲဂူမံင်ဟာ",
+      "audio": "188.mp3"
+    },
+    {
+      "id":189,
+      "english": "Have you had your lunch?",
+      "mon": "စပုင်တ္ရဲတုဲယျဟာ",
+      "audio": "189.mp3"
+    },
+    {
+      "id":535,
+      "english": "Have you had your lunch",
+      "mon": "စပုင်တ္ရဲတုဲယျဟာ",
+      "audio": "189.mp3"
+    },
+    {
+      "id":190,
+      "english": "Speak frankly",
+      "mon": "ဟီုကၠးကၠးညိ",
+      "audio": "190.mp3"
+    },
+    {
+      "id":191,
+      "english": "Let's go this way",
+      "mon": "အာဂၠံင်ဏအ်စိုအ်",
+      "audio": "191.mp3"
+    },
+    {
+      "id":192,
+      "english": "Shall we go together",
+      "mon": "ပိုဲတအ်အာမွဲစွံစိုအ်",
+      "audio": "192.mp3"
+    },
+    {
+      "id":193,
+      "english": "Any discount",
+      "mon": "ဖျေံၚုဟ်မံင်ဏီဟာ",
+      "audio": "193.mp3"
+    },
+    {
+      "id":194,
+      "english": "What need?",
+      "mon": "မုနွံပၟိက်ဏီရော",
+      "audio": "194.mp3"
+    },
+    {
+      "id":536,
+      "english": "What need",
+      "mon": "မုနွံပၟိက်ဏီရော",
+      "audio": "194.mp3"
+    },
+    {
+      "id":195,
+      "english": "I hate you",
+      "mon": "အဲက္ဍုဟ်ဗှ်ေ",
+      "audio": ""
+    },
+    {
+      "id":196,
+      "english": "I haven't enough cash",
+      "mon": "ပ္ရဲအဲလှုဲဟွံပေင်ပုဟ်",
+      "audio": "196.mp3"
+    },
+    {
+      "id":197,
+      "english": "One more photo",
+      "mon": "မွဲဗီုပၠန်",
+      "audio": "197.mp3"
+    },
+
+    {
+      "id":198,
+      "english": "Quite impossible",
+      "mon": "ဒှ်ဟွံမာန်ပုဟ်",
+      "audio": "198.mp3"
+    },
+
+    {
+      "id":199,
+      "english": "What's next?",
+      "mon": "ၝဏအ်တုဲမုကၠောန်ရော",
+      "audio": "199.mp3"
+    },
+
+    {
+      "id":536,
+      "english": "What's next",
+      "mon": "ၝဏအ်တုဲမုကၠောန်ရော",
+      "audio": "199.mp3"
+    },
+   
+    {
+      "id":200,
+      "english": "You're getting thin",
+      "mon": "ဗှ်ေဇျာဲစှ်ေအာ",
+      "audio": "200.mp3"
+    },
+    {
+      "id":201,
+      "english": "Is my love not perfect for you?",
+      "mon": "ဆာန်အဲသွက်ဗှ်ေဟွံဍိုက်ပေင်ပုဟ်ဟာ",
+      "audio": "201.mp3"
+    },
+    {
+      "id":537,
+      "english": "Is my love not perfect for you",
+      "mon": "ဆာန်အဲသွက်ဗှ်ေဟွံဍိုက်ပေင်ပုဟ်ဟာ",
+      "audio": "201.mp3"
+    },
+  
+    {
+      "id":202,
+      "english": "I am waiting for you",
+      "mon": "အဲမင်စၟဳမံင်ဗှ်ေဏောင်",
+      "audio": "202.mp3"
+    },
+  
+    {
+      "id":203,
+      "english": "I don't hate on you",
+      "mon": "အဲဟွံက္ဍုဟ်ကၠုၚ်လ္တူဗှ်ေပုဟ်",
+      "audio": "203.mp3"
+    },
+    {
+      "id":204,
+      "english": "I can't hate you",
+      "mon": "အဲက္ဍုဟ်ဗှ်ေဟွံမာန်ပုဟ်",
+      "audio": "204.mp3"
+    },
+    {
+      "id":205,
+      "english": "I don't have a lover",
+      "mon": "ကဝေင်အဲလေဝ်ဟွံမွဲပုဟ်",
+      "audio": "205.mp3"
+    },
+    {
+      "id":206,
+      "english": "I love only you",
+      "mon": "အဲဆာန်ဗှ်ေမွဲရ",
+      "audio": "206.mp3"
+    },
+    {
+      "id":207,
+      "english": "If you take him,I will come and kill me",
+      "mon": "ယဝ်ဗှ်ေကေတ်ဍေံတှ်ေကၠာအိုတ်ဗှ်ေကၠုင်ဂစိုတ်ထောံအဲညိ",
+      "audio": "207.mp3"
+    },
+    {
+      "id":208,
+      "english": "Why will you hate me now?",
+      "mon": "လၟုဟ်မုဟိုတ်ဗှ်ေဂွံက္ဍုဟ်ထောံအဲရော",
+      "audio": "208.mp3"
+    },
+    {
+      "id":538,
+      "english": "Why will you hate me now",
+      "mon": "လၟုဟ်မုဟိုတ်ဗှ်ေဂွံက္ဍုဟ်ထောံအဲရော",
+      "audio": "208.mp3"
+    },
+    {
+      "id":209,
+      "english": "Why are you so cruel to me?",
+      "mon": "မုဟိုတ်ဗှ်ေဂွံဓဇန်လ္တူအဲရော",
+      "audio": "209.mp3"
+    },
+    {
+      "id":539,
+      "english": "Why are you so cruel to me",
+      "mon": "မုဟိုတ်ဗှ်ေဂွံဓဇန်လ္တူအဲရော",
+      "audio": "209.mp3"
+    },
+    {
+      "id":210,
+      "english": "I can't forget you",
+      "mon": "အဲဝိုတ်ဗှ်ေဟွံမာန်ပုဟ်",
+      "audio": "210.mp3"
+    },
+    {
+      "id":211,
+      "english": "Do you really hate me?",
+      "mon": "ဗှ်ေက္ဍုဟ်အာအဲကွေံကွေံယျဟာ",
+      "audio": "211.mp3"
+    },
+    {
+      "id":540,
+      "english": "Do you really hate me",
+      "mon": "ဗှ်ေက္ဍုဟ်အာအဲကွေံကွေံယျဟာ",
+      "audio": "211.mp3"
+    },
+    {
+      "id":212,
+      "english": "What did I do wrong on you?",
+      "mon": "မုအဲဗၠေတ်မှာလဝ်လ္တူဗှ်ေနွံကီုရော",
+      "audio": "212.mp3"
+    },
+    {
+      "id":541,
+      "english": "What did I do wrong on you",
+      "mon": "မုအဲဗၠေတ်မှာလဝ်လ္တူဗှ်ေနွံကီုရော",
+      "audio": "212.mp3"
+    },
+    {
+      "id":213,
+      "english": "If you already know that you love him,don't take me ",
+      "mon": "ဗှ်ေဆာန်ဒၟံင်ဍေံသောင်မံင်ရတှ်ေလ္ပကေတ်အဲ",
+      "audio": "212.mp3"
+    },
+    {
+      "id":214,
+      "english": "I'm nothing without you",
+      "mon": "ဘဝအဲဂှ်ဗှ်ေဟွံမွဲတှ်ေမးမးရ",
+      "audio": "214.mp3"
+    },
+    {
+      "id":215,
+      "english": "I want to share my life with you",
+      "mon": "ဘဝအဲဂှ်မိက်ဂွံပါ်ပြဟ်ကဵုဗှ်ေကီု",
+      "audio": "215.mp3"
+    },
+    {
+      "id":216,
+      "english": "I'm crazy about you",
+      "mon": "ဒၟါနူဗှ်ေအဲပြဟ်မံင်ယျ",
+      "audio": "216.mp3"
+    },
+    {
+      "id":217,
+      "english": "I really love you",
+      "mon": "အဲဆာန်ဗှ်ေဍာံဍာံရ",
+      "audio": "217.mp3"
+    },
+    {
+      "id":218,
+      "english": "You're my treasure",
+      "mon": "ဗှ်ေဂှ်မတ်မၞိက်အဲမွဲမရ",
+      "audio": "218.mp3"
+    },
+    {
+      "id":219,
+      "english": "Don't let people about our love",
+      "mon": "ပရေင်ဆာန်ပိုယ်ညးၜါလ္ပကဵုညးတၞဟ်တီညိ",
+      "audio": "219.mp3"
+    },
+    {
+      "id":220,
+      "english": "I always keep my door open for you",
+      "mon": "သွက်​ဗှ်ေတှ်ေအဲပံက်လဝ်ကဵုတရင်လၟိုန်ရ",
+      "audio": "220.mp3"
+    },
+    {
+      "id":221,
+      "english": "a",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":222,
+      "english": "b",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":223,
+      "english": "c",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":224,
+      "english": "d",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":225,
+      "english": "e",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":226,
+      "english": "f",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":227,
+      "english": "g",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":228,
+      "english": "h",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":229,
+      "english": "i",
+      "mon": "အဲ",
+      "audio": "229.mp3"
+    },
+    {
+      "id":230,
+      "english": "j",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":231,
+      "english": "k",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":232,
+      "english": "l",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":233,
+      "english": "m",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":234,
+      "english": "n",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":235,
+      "english": "o",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":236,
+      "english": "p",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":237,
+      "english": "q",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":238,
+      "english": "r",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":239,
+      "english": "s",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":240,
+      "english": "t",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":241,
+      "english": "u",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":242,
+      "english": "v",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":243,
+      "english": "w",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":244,
+      "english": "x",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":245,
+      "english": "y",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":246,
+      "english": "z",
+      "mon": "",
+      "audio": ""
+    },
+    {
+      "id":247,
+      "english": "1",
+      "mon": "မွဲ",
+      "audio": "247.mp3"
+    },
+    {
+      "id":248,
+      "english": "2",
+      "mon": "ၜါ",
+      "audio": "248.mp3"
+    },
+    {
+      "id":249,
+      "english": "3",
+      "mon": "ပိ",
+      "audio": "249.mp3"
+    },
+    {
+      "id":250,
+      "english": "4",
+      "mon": "ပန်",
+      "audio": "250.mp3"
+    },
+    {
+      "id":251,
+      "english": "5",
+      "mon": "မသုန်",
+      "audio": "251.mp3"
+    },
+
+    {
+      "id":252,
+      "english": "6",
+      "mon": "တြဴ",
+      "audio": "252.mp3"
+    },
+
+    {
+      "id":253,
+      "english": "7",
+      "mon": "ထပှ်",
+      "audio": "253.mp3"
+    },
+
+    {
+      "id":254,
+      "english": "8",
+      "mon": "ဒ္စါံ",
+      "audio": "254.mp3"
+    },
+
+    {
+      "id":255,
+      "english": "9",
+      "mon": "ဒ္စိတ်",
+      "audio": "255.mp3"
+    },
+
+    {
+      "id":256,
+      "english": "10",
+      "mon": "စှ်",
+      "audio": "256.mp3"
+    },
+
+    {
+      "id":257,
+      "english": "100",
+      "mon": "မွဲကၠံ",
+      "audio": "257.mp3"
+    },
+
+    {
+      "id":258,
+      "english": "1000",
+      "mon": "မွဲလ္ရဳ",
+      "audio": "258.mp3"
+    },
+
+    {
+      "id":259,
+      "english": "10000",
+      "mon": "မွဲဠက်",
+      "audio": "259.mp3"
+    },
+
+    {
+      "id":260,
+      "english": "100000",
+      "mon": "မွဲကိုဋ်",
+      "audio": "260.mp3"
+    },
+
+    {
+      "id":261,
+      "english": "He",
+      "mon": "မၞိဟ်တြုံ",
+      "audio": "261.mp3"
+    },
+
+    {
+      "id":262,
+      "english": "Hell",
+      "mon": "နရက်",
+      "audio": "262.mp3"
+    },
+
+    {
+      "id":263,
+      "english": "we",
+      "mon": "ပိုဲတအ်",
+      "audio": "263.mp3"
+    },
+
+    {
+      "id":264,
+      "english": "than",
+      "mon": "ပေ",
+      "audio": "264.mp3"
+    },
+
+    {
+      "id":265,
+      "english": "rule",
+      "mon": "စေဝ်ပၞောန်",
+      "audio": "265.mp3"
+    },
+
+    {
+      "id":266,
+      "english": "neck",
+      "mon": "ကအ်",
+      "audio": "266.mp3"
+    },
+
+    {
+      "id":267,
+      "english": "ear",
+      "mon": "ကတောဝ်",
+      "audio": "267.mp3"
+    },
+
+    {
+      "id":268,
+      "english": "clot",
+      "mon": "ဆီဒပ်",
+      "audio": "268.mp3"
+    },
+
+    {
+      "id":269,
+      "english": "cloth",
+      "mon": "ယာတ်ပဠောံ",
+      "audio": "269.mp3"
+    },
+
+    {
+      "id":270,
+      "english": "so",
+      "mon": "ၜက်",
+      "audio": "270.mp3"
+    },
+
+    {
+      "id":271,
+      "english": "mon",
+      "mon": "မန်",
+      "audio": "271.mp3"
+    },
+    {
+      "id":272,
+      "english": "song",
+      "mon": "ဒွက်",
+      "audio": "272.mp3"
+    },
+    {
+      "id":273,
+      "english": "love",
+      "mon": "ဆာန်",
+      "audio": "273.mp3"
+    },
+    {
+      "id":274,
+      "english": "I",
+      "mon": "အဲ",
+      "audio": "274.mp3"
+    },
+    {
+      "id":275,
+      "english": "I love",
+      "mon": "အဲဆာန်",
+      "audio": "275.mp3"
+    },
+    {
+      "id":276,
+      "english": "you",
+      "mon": "ဗှ်ေ",
+      "audio": "276.mp3"
+    },
+    {
+      "id":277,
+      "english": "miss",
+      "mon": "ဗှ်သၞာ",
+      "audio": "277.mp3"
+    },
+    {
+      "id":278,
+      "english": "I miss",
+      "mon": "အဲဗှ်သၞာ",
+      "audio": "278.mp3"
+    },
+    {
+      "id":279,
+      "english": "sun",
+      "mon": "တ္ရဲ",
+      "audio": "279.mp3"
+    },
+    {
+      "id":280,
+      "english": "mount",
+      "mon": "လ္တူဒဵု",
+      "audio": "280.mp3"
+    },
+    {
+      "id":281,
+      "english": "head",
+      "mon": "က္ဍိုပ်",
+      "audio": "281.mp3"
+    },
+    {
+      "id":282,
+      "english": "trust",
+      "mon": "ပတှ်ေ",
+      "audio": "282.mp3"
+    },
+    {
+      "id":283,
+      "english": "try",
+      "mon": "ဂ္စာန်",
+      "audio": "283.mp3"
+    },
+    {
+      "id":284,
+      "english": "again",
+      "mon": "မွဲတုဲပၠန်",
+      "audio": "284.mp3"
+    },
+    {
+      "id":285,
+      "english": "stand",
+      "mon": "က္တဵု",
+      "audio": "285.mp3"
+    },
+    {
+      "id":286,
+      "english": "call",
+      "mon": "ကော်",
+      "audio": "286.mp3"
+    },
+    {
+      "id":287,
+      "english": "call me",
+      "mon": "ကော်အဲ",
+      "audio": "287.mp3"
+    },
+    {
+      "id":288,
+      "english": "forgive",
+      "mon": "သၠးအခေါင်",
+      "audio": "288.mp3"
+    },
+    {
+      "id":289,
+      "english": "listen",
+      "mon": "ကၠင်ညိ",
+      "audio": "289.mp3"
+    },
+    {
+      "id":290,
+      "english": "wait",
+      "mon": "မင်ညိ",
+      "audio": "290.mp3"
+    },
+    {
+      "id":291,
+      "english": "come",
+      "mon": "ကၠုင်",
+      "audio": "291.mp3"
+    },
+    {
+      "id":292,
+      "english": "how",
+      "mon": "ဗီုလဵုရော",
+      "audio": "292.mp3"
+    },{
+      "id":293,
+      "english": "Good",
+      "mon": "ခိုဟ်",
+      "audio":"293.mp3"
+    },{
+      "id":294,
+      "english": "night",
+      "mon": "ဗ္တံ",
+      "audio":"294.mp3"
+    },{
+      "id":295,
+      "english": "Good night",
+      "mon": "မ္ရဵုအခိင်ဗ္တံ",
+      "audio":"295.mp3"
+    },{
+      "id":296,
+      "english": "morning",
+      "mon": "နူဂယး",
+      "audio":"296.mp3"
+    },{
+      "id":297,
+      "english": "Good morning",
+      "mon": "မ္ရဵုအခိင်နူဂယး",
+      "audio":"297.mp3"
+    } 
+
+  ]
+}
